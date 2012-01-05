@@ -4,4 +4,7 @@ This was the first problem on the website www.ProjectEuler.com
 
 Find the sum of all the multiples of 3 or 5 below 1000."
 
-The % is used to check whether a value is a multiple of 3 or 5 in a loop. If it is then it will add that found value to a sum variable and so on and so forth. 
+The % is used to check whether a value is a multiple of 3 or 5 in a loop. If it is then it will add that found value to a sum variable and so on and so forth.
+
+-
+Falade 
